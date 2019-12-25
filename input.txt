@@ -1,0 +1,13 @@
+Initial State: {1}
+Final States: {2}
+Total States: 9
+State	a	b	E
+1	{}	{}	{b,h}
+2	{}	{}	{c,e}
+3	{d}	{}	{}
+4	{}	{}	{g}
+5	{}	{f}	{}
+6	{}	{}	{g}
+7	{}	{}	{b,h}
+8	{i}	{}	{}
+9	{}	{}	{}
